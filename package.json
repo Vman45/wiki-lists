@@ -131,7 +131,7 @@
     "@types/request-promise": "^4.1.44",
     "@types/response-time": "^2.3.4",
     "@types/tilebelt": "^1.0.2",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bcrypt-nodejs": "0.0.3",
     "body-parser": "^1.18.3",
     "browser-cookies": "^1.2.0",
